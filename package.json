@@ -1,0 +1,29 @@
+{
+  "name": "coscomui-sass-theme",
+  "version": "3.52.0",
+  "description": "Coscom UI Sass Theme",
+  "homepage": "https://coscom.de/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insideode/coscomui-sass-theme.git"
+  },
+  "keywords": [
+    "coscom-ui",
+    "vue",
+    "vue.js",
+    "vue2",
+    "vue3",
+    "ui library",
+    "component library",
+    "material",
+    "bootstrap",
+    "fluent",
+    "tailwind",
+    "unstyled",
+    "passthrough"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insideode/coscomui-sass-theme/issues"
+  }
+}
